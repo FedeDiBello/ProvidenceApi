@@ -11,3 +11,18 @@ function sofi() {
         nacionalidad: "Argentina"
     }
 };
+
+function luzAdriana() {
+  return {
+    nombre: "Luz Adriana",
+    edad: 34,
+    nacionalidad: "Colombiana",
+  };
+}
+function Fede() {
+    return {
+        name: "Fede",
+        age: 34,
+        nationality: "Argentina"
+    };
+}
