@@ -4,3 +4,10 @@ function laCajaDePandora(numero){
         return numero.toString(16);
     }
 };
+
+function sofi() {
+    return { nombre: "Sofía Bartoli",
+        edad: 36,
+        nacionalidad: "Argentina"
+    }
+};
