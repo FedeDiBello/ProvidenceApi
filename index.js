@@ -4,3 +4,11 @@ function laCajaDePandora(numero) {
     return numero.toString(16);
   }
 }
+
+function luzAdriana() {
+  return {
+    nombre: "Luz Adriana",
+    edad: 34,
+    nacionalidad: "Colombiana",
+  };
+}
