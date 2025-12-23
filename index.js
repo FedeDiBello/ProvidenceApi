@@ -12,3 +12,10 @@ function luzAdriana() {
     nacionalidad: "Colombiana",
   };
 }
+function Fede() {
+    return {
+        name: "Fede",
+        age: 34,
+        nationality: "Argentina"
+    };
+}
