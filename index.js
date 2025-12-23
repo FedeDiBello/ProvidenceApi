@@ -1,3 +1,3 @@
-function laCajaDePandora(numero){
-// proximamente escribiremos codigo aqui
+function laCajaDePandora(6){
+dshfkjhsdjkfhks
 }
